@@ -6,11 +6,10 @@ We have developed both a **fuzzer for marformed input** and a **fuzzer for forma
 
 ### 📜 **Overview**
 
-The **Smartwatch Service Fuzzer** is a Python-based tool designed to **fuzz android smartwatch system services** via the `adb shell service call` command. It targets services to identify potential vulnerabilities, crashes, and abnormal behaviors.
+The **AngelFuzzer** is a Python-based tool designed to **fuzz android smartwatch system services** via the `adb shell service call` command. It targets services to identify potential vulnerabilities, crashes, and abnormal behaviors.
 
 The fuzzer randomly generates inputs of various types (integers, strings, arrays, booleans, etc.) to test system service stability, collect outputs, and log any crashes.
 
-This fuzzer is for 
 
 ### 🚀 **Features**
 
