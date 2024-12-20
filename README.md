@@ -1,4 +1,4 @@
-# ⌚ WatchOut
+# ⌚ WatchOut!
 
 We are **WatchOut**, a smartwatch vulnerability analysis team from **BOB (Best of the Best)** in South Korea.
 
