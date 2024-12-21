@@ -109,6 +109,7 @@ The fuzzer randomly generates inputs of various types (integers, strings, arrays
             {"type": "i32"}
         ]
     }
+    ]
 }
 ```
 
